@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinAPP", "PinAPP\PinAPP.csproj", "{3457006C-69B9-458A-89DB-7CDDBBA30118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3457006C-69B9-458A-89DB-7CDDBBA30118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3457006C-69B9-458A-89DB-7CDDBBA30118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3457006C-69B9-458A-89DB-7CDDBBA30118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3457006C-69B9-458A-89DB-7CDDBBA30118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8718EF-2064-4F24-9A68-4E322EF01F9F}
+	EndGlobalSection
+EndGlobal
